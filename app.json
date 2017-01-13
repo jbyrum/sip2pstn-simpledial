@@ -12,6 +12,6 @@
     "website": "http://www.twilio.com",
     "repository": "https://github.com/timbeyers/sip2pstn-simpledial.git",
     "logo": "https://www.twilio.com/packages/company/img/logos_downloadable_round.png",
-
-    "success_url": "/"
+    "success_url": "/",
+    "stack": "heroku-16" 
 }
